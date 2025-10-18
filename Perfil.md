@@ -12,7 +12,8 @@ Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.
 ## 🚀 Linguagens que conheço
 
 <p align="center">
-  <img src="img width="1536 height="1024" alt="b58c4caf-7ac2-44e6-aecb-23760d9f96f9" src="https://github.com/user-attachments/assets/4b7969b1-0ec1-4f2c-8613-474d4b8753f0" />
+  <img src=<img width="1536" height="1024" alt="b58c4caf-7ac2-44e6-aecb-23760d9f96f9" src="https://github.com/user-attachments/assets/3788b0ff-a225-421b-885e-30ea4ffc5eca" />
+" />
 
 
 </p>
