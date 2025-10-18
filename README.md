@@ -11,9 +11,11 @@ Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.
 
 ## 🚀 Linguagens que conheço
 <!-- Imagem de fundo simulando banner -->
+
 <p align="center">
-  <img src="https://images8.alphacoders.com/131/1311962.png" width="100%" alt="Pixel Art Cyberpunk Background"/>
+  <img src="https://i.imgur.com/nojB21U_d.webp?maxwidth=760&fidelity=grand" width="600px" alt="Linguagens que conheço"/>
 </p>
+
 
 
 </p>
