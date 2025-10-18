@@ -12,7 +12,8 @@ Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.
 ## 🚀 Linguagens que conheço
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file-HyJeXZbAR98R2AWUWYjAGW&ts=489118&p=fs&cid=1&sig=3fc5bcba974809e65b6a34734e871bed036838a534aec84b0f2101be8e990ee0&v=0"/>
+  <img src="<img width="1536" height="1024" alt="b58c4caf-7ac2-44e6-aecb-23760d9f96f9" src="https://github.com/user-attachments/assets/b63f5cf4-1d45-4dd7-a16f-786a4420c505" />
+"/>
 
 </p>
 
