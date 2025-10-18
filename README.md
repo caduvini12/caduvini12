@@ -12,7 +12,8 @@ Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.
 ## 🚀 Linguagens que conheço
 
 <p align="center">
-  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-ffd8-6230-83fd-637d369bc3a1/raw?se=2025-09-25T02%3A52%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=16c56d33-6755-5de1-8bf2-09571c0ca390&skoid=9ccea605-1409-4478-82eb-9c83b25dc1b0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-24T21%3A36%3A27Z&ske=2025-09-25T21%3A36%3A27Z&sks=b&skv=2024-08-04&sig=cmS1qgJPFFtJnbGuY0zd32X4QGK2wEgdAgDxiSAxJ10%3D">
+  <img src=" height="1024 alt="image" src="https://github.com/user-attachments/assets/4763ead5-7936-4870-9c6a-18318cd83cf9" />
+">
 </p>
 
 ---
