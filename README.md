@@ -1,15 +1,15 @@
 
 
-# 👋 Olá, eu sou Carlos Eduardo  
+#  Olá, eu sou Carlos Eduardo  
 
-# 💻 Sobre mim
+#  Sobre mim
 
 Sou estudante de **Sistemas de Informação** (2º período), explorando o mundo da programação.  
 Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.  
 
 ---
 
-## 🚀 Linguagens que conheço
+##  Linguagens que conheço
 <!-- Imagem de fundo simulando banner -->
 
 <p align="center">
@@ -21,9 +21,9 @@ Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.
 </p>
 
 ---
-📚 Sempre aprendendo, testando ideias e construindo projetos para evoluir no caminho da programação.
 
-## 📊 Estatísticas do GitHub
+
+## Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caduvini12&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvini12&layout=compact&theme=radical" height="150" />
