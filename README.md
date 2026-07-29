@@ -4,7 +4,7 @@
 
 #  Sobre mim
 
-Sou estudante de **Sistemas de Informação** (2º período), explorando o mundo da programação.  
+Sou estudante de **Sistemas de Informação** (4º período), explorando o mundo da programação.  
 Atualmente aprendendo e praticando **C#**, **Python** e **SQL**.  
 
 ---
